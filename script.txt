@@ -1,0 +1,29 @@
+<script>
+
+export default {
+  name: "RegisterForm",
+  data() {
+    return {
+      start_date: "",
+      end_date: "",
+      api_key: "",
+    }
+  },
+
+  methods: {
+    search(){
+
+
+
+
+
+    }
+
+  }
+
+
+
+
+}
+
+</script>
